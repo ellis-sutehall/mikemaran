@@ -1,0 +1,31 @@
+
+.bigblack { color: #000; font-weight: bold; font-size: 14px; line-height: 18px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none; margin: 5px }
+.bigblack a { color: #360; font-weight: bold; font-size: 14px; line-height: 18px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none; margin: 5px }
+.bigwhite { color: #fff; font-weight: bold; font-size: 14px; line-height: 18px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none; margin: 5px }
+.bigwhite a { color: #cf6; font-weight: bold; font-size: 14px; line-height: 18px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none; margin: 5px }
+.nav1 { color: #fff; font-weight: bold; font-size: 13px; line-height: 15px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none }
+.nav1 a { color: #fff; font-weight: bold; font-size: 13px; line-height: 15px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none }
+.nav1 a:hover { color: #cf6; font-weight: bold; font-size: 13px; line-height: 15px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none }
+.nav2 { color: #000; font-weight: normal; font-size: 11px; line-height: 13px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none; margin: 2px 4px 2px 0px }
+.nav2 a { color: #000; font-weight: normal; font-size: 11px; line-height: 13px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none; margin: 2px 4px 2px 0px }
+.nav2 a:hover { color: #060; font-weight: normal; font-size: 11px; line-height: 13px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none; margin: 2px 4px 2px 0px }
+.nav3 { color: #060; font-weight: bold; font-size: 11px; line-height: 13px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none }
+.nav3 a { color: #060; font-weight: bold; font-size: 11px; line-height: 13px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none }
+.nav3 a:hover { color: #000; font-weight: bold; font-size: 11px; line-height: 13px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: underline }
+.newshead { color: #060; font-weight: bold; font-size: 15px; line-height: 16px; font-family: Verdana, Helvetica, Arial, sans-serif; margin: 2px 2px 2px 6px }
+.newshead2 { color: #060; font-weight: bold; font-size: 13px; line-height: 16px; font-family: Verdana, Helvetica, Arial, sans-serif; margin: 12px 2px 2px 6px }
+.newstext { color: #000; font-weight: normal; font-size: 11px; line-height: 14px; font-family: Verdana, Helvetica, Arial, sans-serif; margin: 4px 4px 4px 6px }
+.table1 { color: #000; font-weight: normal; font-size: 11px; line-height: 13px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none }
+.table2 { color: #000; font-weight: bold; font-size: 11px; line-height: 13px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none }
+.table3 { color: #690; font-weight: normal; font-size: 11px; line-height: 13px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none }
+h1 { color: #690; font-weight: bold; font-size: 32px; line-height: 36px; font-family: Verdana, Helvetica, Arial, sans-serif; margin-top: 7px; margin-bottom: 7px }
+h2 { color: #690; font-weight: bold; font-size: 24px; line-height: 29px; font-family: Verdana, Helvetica, Arial, sans-serif; margin-top: 8px; margin-bottom: 8px }
+h3 { color: #6c0; font-weight: bold; font-size: 17px; line-height: 20px; font-family: Verdana, Helvetica, Arial, sans-serif; margin-top: 7px; margin-bottom: 4px }
+h3 a { color: #6c0; font-weight: bold; font-size: 17px; line-height: 20px; font-family: Verdana, Helvetica, Arial, sans-serif; text-decoration: none; margin-top: 7px; margin-bottom: 4px }
+h4 { color: #6c0; font-weight: bold; font-size: 11px; line-height: 14px; font-family: Verdana, Helvetica, Arial, sans-serif; margin-top: 7px; margin-bottom: 7px }
+h5 { color: #000; font-weight: bold; font-size: 11px; line-height: 14px; font-family: Verdana, Helvetica, Arial, sans-serif; margin-top: 7px; margin-bottom: 7px }
+h6 { color: #000; font-weight: normal; font-size: 9px; line-height: 12px; font-family: Verdana, Helvetica, Arial, sans-serif; margin-top: 5px; margin-bottom: 5px }
+li { color: #000; font-size: 11px; line-height: 15px; font-family: Verdana, Helvetica, Arial, sans-serif; margin-bottom: 0px }
+p { color: #000; font-size: 11px; line-height: 16px; font-family: Verdana, Helvetica, Arial, sans-serif; margin-top: 8px; margin-bottom: 8px }
+p2 { color: #000; font-size: 11px; line-height: 14px; font-family: Verdana, Helvetica, Arial, sans-serif; vertical-align: top }
+td { color: #000; font-size: 11px; line-height: 16px; font-family: Verdana, Helvetica, Arial, sans-serif; margin-top: 8px; margin-bottom: 8px }

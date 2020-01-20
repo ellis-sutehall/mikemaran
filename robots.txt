@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /WEBSTATS/
+
+user-agent: stress-agent
+Disallow: /
